@@ -1,2 +1,2 @@
 # Personal Site
-First Python Project using the django framework to build my portfolio site.
+First Python Project using the django framework to build and display my portfolio.
